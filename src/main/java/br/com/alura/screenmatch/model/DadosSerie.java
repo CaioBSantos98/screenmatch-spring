@@ -11,5 +11,4 @@ public record DadosSerie(@JsonAlias("Title") String titulo,
                          @JsonAlias("Actors") String atores,
                          @JsonAlias("Poster") String poster,
                          @JsonAlias("Plot") String sinopse)
-{
-}
+{}
