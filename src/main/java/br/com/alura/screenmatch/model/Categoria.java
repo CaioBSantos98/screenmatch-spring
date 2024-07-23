@@ -5,7 +5,7 @@ import java.text.Normalizer;
 public enum Categoria {
     ACAO("Action", "Ação"),
     ROMANCE("Romance", "Romance"),
-    COMEDIA("Comedy", "Comedia"),
+    COMEDIA("Comedy", "Comédia"),
     DRAMA("Drama", "Drama"),
     CRIME("Crime", "Crime");
 
